@@ -570,3 +570,339 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.27-11.49.16:216][688]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
 [2020.04.27-11.49.16:230][688]LogSlate: Took 0.001064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.27-11.49.38:083][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.19.34:223][336]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.19.35:561][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.19.36:394][588]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.19.38:847][881]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.27-12.19.38:847][881]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.27-12.19.38:847][881]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.27-12.19.38:847][881]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.27-12.19.38:847][881]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.27-12.19.38:847][881]LogWindows: Warning: URL: C:\Users\Andre\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.27-12.19.38:848][881]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.27-12.19.38:848][881]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.27-12.19.38:848][881]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.27-12.19.38:848][881]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.27-12.19.46:693][761]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.27-12.19.51:051][283]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.19.53:534][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.20.47:634][ 70]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.27-12.20.56:433][125]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.20.59:274][465]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.21.02:843][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:843][863]LoadErrors: Failed to load /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube Referenced by StaticMeshComponent_209
+[2020.04.27-12.21.02:843][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:844][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:844][863]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor Referenced by Tool Mesh_GEN_VARIABLE
+[2020.04.27-12.21.02:844][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:844][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:844][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:844][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:844][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:845][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:846][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:846][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:846][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:857][863]LogBlueprint: Warning: [Compiler PlayerPawn] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2020.04.27-12.21.02:858][863]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2020.04.27-12.21.02:858][863]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveForward' for  Get MoveForward
+[2020.04.27-12.21.02:863][863]LogBlueprint: Warning: [Compiler PlayerPawn] [1919.96] Compile of PlayerPawn successful, but with 3 Warning(s) [in 14 ms] (/Game/Blueprints/PlayerPawn.PlayerPawn)
+[2020.04.27-12.21.02:864][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:864][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:864][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:864][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:866][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:866][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:866][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:866][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:870][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:870][863]LoadErrors: Failed to load /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube Referenced by StaticMesh_GEN_VARIABLE
+[2020.04.27-12.21.02:870][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:870][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:870][863]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor Referenced by StaticMesh_GEN_VARIABLE
+[2020.04.27-12.21.02:870][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:870][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:871][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.21.02:878][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.21.02:879][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.21.02:879][863]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Fire.P_Fire Referenced by K2Node_CallFunction_1
+[2020.04.27-12.21.02:879][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.21.02:879][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.21.02:879][863]LoadErrors: Failed to load /Game/StarterContent/Particles/P_Steam_Lit.P_Steam_Lit Referenced by K2Node_CallFunction_7
+[2020.04.27-12.21.02:879][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.21.02:880][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:881][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:882][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:882][863]LoadErrors: Failed to load /Game/ShipSystems/BaseShipSystem.BaseShipSystem_C Referenced by BaseFloorPanel
+[2020.04.27-12.21.02:882][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:882][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:882][863]LoadErrors: Failed to load /Game/ShipSystems/BaseShipSystem.BaseShipSystem_C Referenced by K2Node_VariableGet_1
+[2020.04.27-12.21.02:882][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:882][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:882][863]LoadErrors: Failed to load /Game/ShipSystems/BaseShipSystem.BaseShipSystem_C Referenced by K2Node_SpawnActorFromClass_0
+[2020.04.27-12.21.02:882][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:883][863]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.21.02:886][863]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.21.02:887][863]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Which Tool Is Needed To Fix?  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.21.02:887][863]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.21.02:887][863]LogBlueprint: Error: [Compiler BaseFloorPanel] In use pin  System Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.27-12.21.02:895][863]LogBlueprint: Warning: [Compiler BaseFloorPanel] [1919.99] Compile of BaseFloorPanel failed. 1 Fatal Issue(s) 4 Warning(s) [in 11 ms] (/Game/FloorPanels/BaseFloorPanel.BaseFloorPanel)
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.21.02:896][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.21.02:897][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.21.02:897][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:897][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:897][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:897][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.21.02:898][863]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.21.02:914][863]LogMaterial: Display: Missing cached shader map for material BaseMat, compiling. 
+[2020.04.27-12.21.02:997][863]LogTexture: Display: Building textures: breach (AutoDXT, 1080X1080)
+[2020.04.27-12.21.02:997][863]LogMaterial: Display: Missing cached shader map for material breach_Mat, compiling. 
+[2020.04.27-12.21.10:816][778]LogStaticMesh: Building static mesh FEMesh...
+[2020.04.27-12.21.10:819][778]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.27-12.21.10:863][778]LogStaticMesh: Built static mesh [0.05s] /Game/FEMesh.FEMesh
+[2020.04.27-12.21.10:877][778]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.21.12:242][941]LogStaticMesh: Building static mesh HammerMesh...
+[2020.04.27-12.21.12:275][941]LogStaticMesh: Built static mesh [0.03s] /Game/HammerMesh.HammerMesh
+[2020.04.27-12.21.12:281][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.21.12:283][941]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/HammerMesh.HammerMesh
+[2020.04.27-12.21.12:683][941]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
+[2020.04.27-12.21.12:683][941]LogSlate: Took 0.007217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.27-12.21.19:100][593]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.21.19:116][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HammerMesh" FILE="../../../../../JS-Repos/Solar Sailer/Content/HammerMesh.uasset" SILENT=true
+[2020.04.27-12.21.19:131][593]LogSavePackage: Moving '../../../../../JS-Repos/Solar Sailer/Saved/HammerMesh52A6A9FD458D2514569A83BE946406E8.tmp' to '../../../../../JS-Repos/Solar Sailer/Content/HammerMesh.uasset'
+[2020.04.27-12.21.20:081][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-12.21.20:224][706]LogSlate: Window 'HammerMesh' being destroyed
+[2020.04.27-12.21.21:562][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-12.22.57:363][177]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.27-12.22.57:443][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.22.57:578][177]LogSourceControl: commit successful: [master 782d59c] Changed hammer texture
+[2020.04.27-12.22.57:644][177]SourceControl: [master 782d59c] Changed hammer texture
+[2020.04.27-12.22.57:644][177]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.04.27-12.22.57:644][177]SourceControl:  rewrite Content/HammerMesh.uasset (90%)
+[2020.04.27-12.22.57:648][177]SourceControl: Commited [master 782d59c] Changed hammer texture.
+[2020.04.27-12.23.04:027][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/EditorBlueprintResources/StandardMacros.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/BasicShapes: 'E:/Unreal Engine/UE_4.22/Engine/Content/BasicShapes' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/EngineMaterials: 'E:/Unreal Engine/UE_4.22/Engine/Content/EngineMaterials' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions: 'E:/Unreal Engine/UE_4.22/Engine/Content/Functions/MaterialLayerFunctions' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/EngineSky: 'E:/Unreal Engine/UE_4.22/Engine/Content/EngineSky' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/EditorMeshes/ColorCalibrator: 'E:/Unreal Engine/UE_4.22/Engine/Content/EditorMeshes/ColorCalibrator' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity: 'E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions01/Opacity' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/EngineFonts/RobotoDistanceField.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/EngineFonts/RobotoDistanceField.uasset' is outside repository
+[2020.04.27-12.23.22:025][846]SourceControl: fatal: E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset: 'E:/Unreal Engine/UE_4.22/Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset' is outside repository
+[2020.04.27-12.23.22:032][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.23.22:222][846]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2020.04.27-12.23.22:222][846]SourceControl: Error: error: please commit or stash them.
+[2020.04.27-12.23.22:224][846]LogContentBrowser: Syncing 1 path(s):
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Interaction_Interface/PlayerInteraction
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Blueprints/PlayerPawn
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Interaction_Interface/GlobalInteract
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/InteractableSystems
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Items/BaseTool
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/TwinStick/Audio/TwinStickFire
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/FloorPanels/BaseFloorPanel
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/HazardMarkers/BaseHazardMarker
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/HazardMarkers/breach
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/HazardMarkers/breach_Mat
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/BaseMat
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Red1
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Items/FireExtinguisher
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Brown
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Grey
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/Prototype_Test_Assets/Items/Hammer
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/ShipDamageManager
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/FEMesh
+[2020.04.27-12.23.22:224][846]LogContentBrowser: 	 - /Game/HammerMesh
+[2020.04.27-12.23.22:225][846]LogUObjectGlobals: Reloading 19 Package(s):
+	Asset Name: /Game/Prototype_Test_Assets/InteractableSystems
+	Asset Name: /Game/Prototype_Test_Assets/Interaction_Interface/GlobalInteract
+	Asset Name: /Game/TwinStick/Audio/TwinStickFire
+	Asset Name: /Game/Blueprints/PlayerPawn
+	Asset Name: /Game/Prototype_Test_Assets/Items/BaseTool
+	Asset Name: /Game/Prototype_Test_Assets/Interaction_Interface/PlayerInteraction
+	Asset Name: /Game/Prototype_Test_Assets/BaseMat
+	Asset Name: /Game/Prototype_Test_Assets/Red1
+	Asset Name: /Game/Prototype_Test_Assets/Items/FireExtinguisher
+	Asset Name: /Game/Prototype_Test_Assets/Brown
+[2020.04.27-12.23.22:229][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.27-12.23.22:259][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.27-12.23.22:278][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:278][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:279][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:279][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:282][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:282][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:291][846]LogBlueprint: Warning: [Compiler PlayerPawn] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2020.04.27-12.23.22:291][846]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2020.04.27-12.23.22:291][846]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveForward' for  Get MoveForward
+[2020.04.27-12.23.22:296][846]LogBlueprint: Warning: [Compiler PlayerPawn] [2059.39] Compile of PlayerPawn successful, but with 3 Warning(s) [in 13 ms] (/Game/Blueprints/PlayerPawn.PlayerPawn)
+[2020.04.27-12.23.22:297][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:297][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:297][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:298][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:299][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:299][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:300][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:300][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:308][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:308][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:308][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:309][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:309][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:309][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:309][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:309][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:310][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:310][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:313][846]LogBlueprint: Error: [Compiler BaseTool] Can't connect pins  Self  and  Tool Ref : Self Object Reference is not compatible with Base Tool Object Reference.
+[2020.04.27-12.23.22:313][846]LogBlueprint: Error: [Compiler BaseTool] Can't connect pins  Tool Ref  and  Self : Base Tool Object Reference is not compatible with Self Object Reference.
+[2020.04.27-12.23.22:314][846]LogBlueprint: Warning: [Compiler BaseTool] [2059.41] Compile of BaseTool failed. 2 Fatal Issue(s) 0 Warning(s) [in 3 ms] (/Game/Prototype_Test_Assets/Items/BaseTool.BaseTool)
+[2020.04.27-12.23.22:350][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.23.22:351][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.23.22:352][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.23.22:352][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.23.22:352][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.23.22:352][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.23.22:357][846]LogBlueprint: Error: [Compiler BaseHazardMarker] In use pin  Current Tool  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.27-12.23.22:359][846]LogBlueprint: Warning: [Compiler BaseHazardMarker] [2059.45] Compile of BaseHazardMarker failed. 1 Fatal Issue(s) 0 Warning(s) [in 5 ms] (/Game/HazardMarkers/BaseHazardMarker.BaseHazardMarker)
+[2020.04.27-12.23.22:359][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:359][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:360][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:362][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.23.22:362][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.23.22:362][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.23.22:363][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.23.22:363][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Fire'
+[2020.04.27-12.23.22:363][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Fire' while loading NULL.
+[2020.04.27-12.23.22:363][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Particles/P_Steam_Lit'
+[2020.04.27-12.23.22:363][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Particles/P_Steam_Lit' while loading NULL.
+[2020.04.27-12.23.22:367][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:367][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:367][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:367][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:367][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:368][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:369][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:370][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:370][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:370][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:370][846]LogLinker: Warning: Can't find file '/Game/ShipSystems/BaseShipSystem'
+[2020.04.27-12.23.22:371][846]LogLinker: Warning: Can't find file for asset '/Game/ShipSystems/BaseShipSystem' while loading NULL.
+[2020.04.27-12.23.22:371][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Shapes/Shape_Cube'
+[2020.04.27-12.23.22:371][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Shapes/Shape_Cube' while loading NULL.
+[2020.04.27-12.23.22:371][846]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/M_Basic_Floor'
+[2020.04.27-12.23.22:371][846]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/M_Basic_Floor' while loading NULL.
+[2020.04.27-12.23.22:371][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:372][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:373][846]LogBlueprint: Error: [Compiler BaseFloorPanel] Can't connect pins  Self  and  Floor Ref : Self Object Reference is not compatible with Base Floor Panel Object Reference.
+[2020.04.27-12.23.22:373][846]LogBlueprint: Error: [Compiler BaseFloorPanel] Can't connect pins  Floor Ref  and  Self : Base Floor Panel Object Reference is not compatible with Self Object Reference.
+[2020.04.27-12.23.22:373][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Which Tool Is Needed To Fix?  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.23.22:373][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.23.22:373][846]LogBlueprint: Error: [Compiler BaseFloorPanel] In use pin  System Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.27-12.23.22:375][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] [2059.47] Compile of BaseFloorPanel failed. 3 Fatal Issue(s) 4 Warning(s) [in 3 ms] (/Game/FloorPanels/BaseFloorPanel.BaseFloorPanel)
+[2020.04.27-12.23.22:375][846]LogUObjectGlobals: Warning: ReloadPackage failed to find a replacement object for 'BaseFloorPanel_C:BaseEnviromentMarker_GEN_VARIABLE.BaseEnviromentMarker_GEN_VARIABLE_BaseEnviromentMarker_C_CAT' in the new package '/Game/FloorPanels/BaseFloorPanel'. Any existing references to this object will be nulled out.
+[2020.04.27-12.23.22:398][846]LogStaticMesh: Building static mesh HammerMesh...
+[2020.04.27-12.23.22:423][846]LogStaticMesh: Built static mesh [0.03s] /Game/HammerMesh.HammerMesh
+[2020.04.27-12.23.22:618][846]LogBlueprint: Warning: [Compiler PlayerPawn] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2020.04.27-12.23.22:618][846]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2020.04.27-12.23.22:618][846]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveForward' for  Get MoveForward
+[2020.04.27-12.23.22:623][846]LogBlueprint: Warning: [Compiler PlayerPawn] [2059.72] Compile of PlayerPawn successful, but with 3 Warning(s) [in 12 ms] (/Game/Blueprints/PlayerPawn_DEADPACKAGE_5.PlayerPawn)
+[2020.04.27-12.23.22:639][846]LogBlueprint: Warning: [Compiler PlayerPawn] InputAction Event references unknown Action 'Interact' for  InputAction Interact
+[2020.04.27-12.23.22:639][846]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveRight' for  Get MoveRight
+[2020.04.27-12.23.22:639][846]LogBlueprint: Warning: [Compiler PlayerPawn] Get Input Axis references unknown Axis 'MoveForward' for  Get MoveForward
+[2020.04.27-12.23.22:644][846]LogBlueprint: Warning: [Compiler PlayerPawn] [2059.74] Compile of PlayerPawn successful, but with 3 Warning(s) [in 16 ms] (/Game/Blueprints/PlayerPawn.PlayerPawn)
+[2020.04.27-12.23.22:651][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:652][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] [2059.75] Compile of BaseFloorPanel successful, but with 1 Warning(s) [in 1 ms] (/Game/FloorPanels/BaseFloorPanel_DEADPACKAGE_17.BaseFloorPanel)
+[2020.04.27-12.23.22:677][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:678][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:678][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] [2059.77] Compile of BaseFloorPanel successful, but with 1 Warning(s) [in 1 ms] (/Game/FloorPanels/BaseFloorPanel.BaseFloorPanel)
+[2020.04.27-12.23.22:679][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:680][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Which Tool Is Needed To Fix?  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.23.22:680][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.23.22:680][846]LogBlueprint: Error: [Compiler BaseFloorPanel] In use pin  System Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.27-12.23.22:682][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] [2059.78] Compile of BaseFloorPanel failed. 1 Fatal Issue(s) 4 Warning(s) [in 5 ms] (/Game/FloorPanels/BaseFloorPanel_DEADPACKAGE_17.BaseFloorPanel)
+[2020.04.27-12.23.22:687][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:688][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] [2059.78] Compile of BaseFloorPanel successful, but with 1 Warning(s) [in 1 ms] (/Game/FloorPanels/BaseFloorPanel.BaseFloorPanel)
+[2020.04.27-12.23.22:709][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:713][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Invalid property 'System Ref' class, replaced with Object.  Please fix or remove.
+[2020.04.27-12.23.22:714][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Which Tool Is Needed To Fix?  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.23.22:714][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor . Please refresh node or reset pin to default value to remove pin.
+[2020.04.27-12.23.22:714][846]LogBlueprint: Error: [Compiler BaseFloorPanel] In use pin  System Ref  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2020.04.27-12.23.22:716][846]LogBlueprint: Warning: [Compiler BaseFloorPanel] [2059.81] Compile of BaseFloorPanel failed. 1 Fatal Issue(s) 4 Warning(s) [in 6 ms] (/Game/FloorPanels/BaseFloorPanel.BaseFloorPanel)
+[2020.04.27-12.23.22:741][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.27-12.23.26:812][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-12.23.26:990][333]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/HammerMesh.HammerMesh
+[2020.04.27-12.23.35:512][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-12.23.35:648][134]LogSlate: Window 'HammerMesh' being destroyed
+[2020.04.27-12.23.36:615][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.27-12.23.43:907][ 85]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/HammerMesh.HammerMesh
